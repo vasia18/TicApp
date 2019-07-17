@@ -109,7 +109,7 @@ public class Game extends Activity implements View.OnClickListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        // //TODO Auto-generated method stub
+        // //Auto-generated method stub
         super.onCreate(savedInstanceState);
         setContentView(R.layout.game);
         initListeners();
