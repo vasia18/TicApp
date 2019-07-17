@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#292b4f</color>
+    <color name="text_droid">#ffd4f5</color>
+    <color name="text_human">#d4daff</color>
+</resources>
